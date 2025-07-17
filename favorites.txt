@@ -1,3 +1,4 @@
+ls
 chicken
 fruit
 vegetables
@@ -5,3 +6,4 @@ extra food
 Disney Hercules
 Robin Hood
 Claus
+Stich
